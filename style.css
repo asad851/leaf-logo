@@ -1,0 +1,42 @@
+* {
+    background: #0b2429;
+}
+.container {
+  background: #ffffff;
+  height: 500px;
+  width: 500px;
+  position: absolute;
+  left:33vw;
+}
+
+.b {
+  width: 250px;
+  height: 250px;
+  border-radius: 0px 180px 0px 180px;
+  background-color: #998235;
+  transform: rotate(90deg);
+  position: absolute;
+  top: 75px;
+  left: 124px;
+}
+
+.c {
+  width: 250px;
+  height: 250px;
+  border-radius: 0px 180px 0px 180px;
+  background-color: #f3ac3c;
+  transform: rotate(90deg);
+  position: absolute;
+  top: 75px;
+  left: 175px;
+}
+.a {
+  width: 250px;
+  height: 250px;
+  border-radius: 0px 180px 0px 180px;
+  background-color: #1a4341;
+  transform: rotate(90deg);
+  position: absolute;
+  top: 75px;
+  left: 75px;
+}
